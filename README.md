@@ -5,7 +5,7 @@ This is a README file. It is automatically displayed on the main page of a repo 
 ### 1. Make a GitHub Account
 Go to [https://www.github.com/](https://www.github.com/) and follow the instructions to make an account, if you do not already have one. 
 
-### 2. Download GitHub Desktop
+### 2. Download GitHub Desktopppppp
 Go to [https://desktop.github.com/download/](https://desktop.github.com/download/) and download the version of GitHub Desktop for your device. 
 
 ### 3. Create a \*fork\* of this repo.
